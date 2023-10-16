@@ -5,6 +5,7 @@ Info - Blue
 Primary - Biru tua
 Dark - hitam
 
+<a href="http://www.google.com" target="_blank">Google</a>
 
 <font color =></font>
 
