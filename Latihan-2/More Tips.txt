@@ -1,0 +1,15 @@
+Merah - Danger
+Succes - Hijau
+Warning - Orange
+Info - Blue
+Primary - Biru tua
+Dark - hitam
+
+
+<font color =></font>
+
+<div calss="text-primary">..</div>
+
+<h1>...</h1> 
+<h2>...
+<h3>...
